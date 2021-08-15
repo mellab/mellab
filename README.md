@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Alejandro Medina 🦊</h1>
-<h3 align="center">A passionate Software Engineer from Colombia</h3>
+<h3 align="center">A passionate Software Engineer and Community Organizer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mellab&label=Profile%20views&color=0e75b6&style=flat" alt="mellab" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [GitLab Colombia](https://www.meetup.com/es/GitLab-Colombia/)
 
-- 🌱 I’m currently learning **HashiCorp Packer, Terraform Vault and DevSecOps stuff**
+- 🌱 I’m currently learning **HashiCorp Packer, Terraform, Vault and DevSecOps stuff**
 
 - 🤝 I’m looking for help with [Bogotá HashiCorp Users Group](https://www.meetup.com/es/Bogota-HashiCorp-User-Group/)
 
