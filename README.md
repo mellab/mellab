@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/mentalabduction" target="blank"><img src="https://img.shields.io/twitter/follow/mentalabduction?logo=twitter&style=for-the-badge" alt="mentalabduction" /></a> </p>
 
-<p align="left"> <a href="https://gitlab.com/mellab" target="blank"><img src="https://img.shields.io/gitlab" alt="mellab" /></a> </p>
-
 - 🔭 I’m currently working on [GitLab Colombia](https://www.meetup.com/es/GitLab-Colombia/)
 
 - 🌱 I’m currently learning **HashiCorp Packer, Terraform, Vault and DevSecOps stuff**
