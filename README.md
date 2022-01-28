@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/mentalabduction" target="blank"><img src="https://img.shields.io/twitter/follow/mentalabduction?logo=twitter&style=for-the-badge" alt="mentalabduction" /></a> </p>
 
-- 🔭 I’m currently working on [GitLab Colombia](https://www.meetup.com/es/GitLab-Colombia/)
+- 🔭 I’m currently working at [Webera](https://webera.com/)
 
-- 🌱 I’m currently learning **HashiCorp Packer, Terraform, Vault and DevSecOps stuff**
+- 🌱 I’m currently learning **HashiCorp Packer, Consul, Vault and DevSecOps stuff**
 
-- 🤝 I’m looking for help with [Bogotá HashiCorp Users Group](https://www.meetup.com/es/Bogota-HashiCorp-User-Group/)
+- 🤝 I’m looking for help with [Bogotá HashiCorp Users Group](https://www.meetup.com/es/Bogota-HashiCorp-User-Group/) and [GitLab Colombia](https://www.meetup.com/es/GitLab-Colombia/)
 
 - 👨‍💻 All of my projects are available at my [Notion Portfolio](https://mel-lab.notion.site/a0e07a624f7f49819a43df1025b4d5d2?v=f46c228ed1ca469ca821e91b2452c6b7)
 
-- 💬 Ask me about **Git, GitLab, CI/CD, GitOps and Infrastructure as Code**
+- 💬 Ask me about **Git, GitLab, CI/CD, GitOps and IaC with Terraform**
 
-- ⚡ Fun fact **DevOps is one of my passions, and I am not precisely a DevOps Engineer. DevOps is a culture, not a title, so I am here to break this misconception.**
+- ⚡ Fun fact **It's Colombia, not Columbia.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
