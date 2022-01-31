@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mentalabduction" target="blank"><img src="https://img.shields.io/twitter/follow/mentalabduction?logo=twitter&style=for-the-badge" alt="mentalabduction" /></a> </p>
 
-- 🔭 I’m currently working at [Webera](https://webera.com/)
+- ☁️ I’m currently working at [Webera](https://webera.com/)
 
 - 🌱 I’m currently learning **HashiCorp Packer, Consul, Vault and DevSecOps stuff**
 
-- 🤝 I’m looking for help with [Bogotá HashiCorp Users Group](https://www.meetup.com/es/Bogota-HashiCorp-User-Group/) and [GitLab Colombia](https://www.meetup.com/es/GitLab-Colombia/)
+- 🤝 I’m looking for help with [Bogotá HashiCorp User Group](https://www.meetup.com/es/Bogota-HashiCorp-User-Group/) and [GitLab Colombia](https://www.meetup.com/es/GitLab-Colombia/)
 
 - 👨‍💻 All of my projects are available at my [Notion Portfolio](https://mel-lab.notion.site/a0e07a624f7f49819a43df1025b4d5d2?v=f46c228ed1ca469ca821e91b2452c6b7)
 
