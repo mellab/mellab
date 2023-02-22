@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/mentalabduction" target="blank"><img src="https://img.shields.io/twitter/follow/mentalabduction?logo=twitter&style=for-the-badge" alt="mentalabduction" /></a> </p>
 
-- ☁️ I’m currently working at [Webera](https://webera.com/)
-
 - 🌱 I’m currently learning **HashiCorp Packer, Consul, Vault and DevSecOps stuff**
 
 - 🤝 I’m looking for help with [Bogotá HashiCorp User Group](https://www.meetup.com/es/Bogota-HashiCorp-User-Group/) and [GitLab Colombia](https://www.meetup.com/es/GitLab-Colombia/)
